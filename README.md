@@ -3,6 +3,12 @@
 ## Prérequis
 - Node 18+
 
+
+installer les dependences : 
+npm init -y
+npm i express cors nanoid
+npm i -D nodemon
+
 ## Lancer l'API
 ```bash
 cd api
